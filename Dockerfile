@@ -1,1 +1,1 @@
-FROM bitnami/kafka:3.7.0-debian-12-r7
+FROM bitnami/kafka:3.4.0-debian-11-r22
